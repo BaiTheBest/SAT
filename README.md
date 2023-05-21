@@ -2,10 +2,7 @@
 
 This repo is the practical realization of our *<ins>S</ins>taleness-<ins>A</ins>lleviated <ins>T</ins>raining* (*SAT*) framework, which reduces the embedding staleness adaptively, as described in our paper:
 
-**Staleness-Alleviated Distributed Graph Neural Network Training via Online
-Dynamic-Embedding Prediction** 
-
-
+**Staleness-Alleviated Distributed Graph Neural Network Training via Online Dynamic-Embedding Prediction** 
 
 *SAT* is implemented in [PyTorch](https://pytorch.org/) and utilizes the [PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric) (PyG) library.
 
